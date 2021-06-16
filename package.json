@@ -1,7 +1,7 @@
 {
-  "name": "wabot-aq",
+  "name": "ICHA",
   "version": "2.1.2",
-  "description": "Customizable WhatsApp Bot",
+  "description": "COTTON CANDYS",
   "depecrated": false,
   "main": "index.js",
   "directories": {
@@ -21,7 +21,7 @@
   ],
   "homepage": "https://github.com/Nurutomo/wabot-aq",
   "author": {
-    "name": "Nurutomo"
+    "name": "ICHA"
   },
   "repository": {
     "type": "git",
